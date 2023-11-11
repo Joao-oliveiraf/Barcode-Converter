@@ -1,5 +1,4 @@
 import os.path
-
 import barcode
 from barcode.writer import ImageWriter
 import pandas as pd
@@ -22,9 +21,9 @@ if len(coluna2) == 0:
 
 # Default values, change if needed AND fix indent ---------->
 #  if len(plan) == 0:
-#     plan = "carros"
+#     plan = "name of sheet (sheet1 by default)"
 #  if not file_name:
-#  file_name = "pelotas.xlsx"
+#  file_name = "name_of_file.xlsx"
 
 # Getting the amount of description for each barcode, default is 4
 qnt_desc = int(input("Quantidade de descrições: "))

@@ -1,5 +1,4 @@
 import os
-
 import barcode
 from barcode.writer import ImageWriter
 import pandas as pd
