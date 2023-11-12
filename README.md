@@ -12,6 +12,15 @@ Output será em um arquivo .html. Para melhor comodidade, recomendo salvar com a
 
 Mude o arquivo style a sua escolha! Na ausência de um arquivo com o nome "style.css" o programa irá criar automaticamente.
 
+## Exemplo do excel
+Em destaque estão alguns parâmetros obrigatórios como: **Nome da coluna (Case sensitive), Nome da planilha(Case sensitive), Caminho COMPLETO do arquivo (C:\\User\\...)**
+
+## Parâmetros do exemplo
+### Nome da coluna 1 = SERIAL, Nome da coluna 2 = NUM, Nome da planilha = Sheet1
+
+![Exemplo do arquivo excel](excel_example.png)
+
+### Exemplo do arquivo final
 ![Exemplo do arquivo final](barcode_example.png)
 
 
