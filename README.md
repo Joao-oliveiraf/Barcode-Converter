@@ -12,5 +12,7 @@ Output será em um arquivo .html. Para melhor comodidade, recomendo salvar com a
 
 Mude o arquivo style a sua escolha! Na ausência de um arquivo com o nome "style.css" o programa irá criar automaticamente.
 
+![Exemplo do arquivo final](barcode_example.png)
+
 
 
